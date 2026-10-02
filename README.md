@@ -19,7 +19,7 @@ Power BI · Excel · SQL · Power Query · Data Modelling
 
 I build practical analytics experiences: shaping data, modelling it for analysis, and presenting the results in dashboards that make the next question easier to answer.
 
-This portfolio brings together projects across finance, healthcare, travel, hospitality, road safety, and sales. It includes dashboard previews and SQL examples; each project page explains the question, approach, and tools.
+This portfolio brings together projects across finance, healthcare, travel, hospitality, road safety, and sales. Selected projects include their original Power BI or Excel deliverables and source workbooks; each project page explains the question, approach, and tools.
 
 ## Selected projects
 
@@ -83,11 +83,13 @@ This portfolio brings together projects across finance, healthcare, travel, hosp
 4. **Design the experience** — make the important signal easy to find and explore.
 5. **Check the result** — reconcile totals, test filters, and make assumptions visible.
 
-## What's included
+## Project files and data
 
-- Dashboard screenshots and project notes.
-- SQL Server examples for hospital operations, healthcare utilization, and airline reviews.
-- No raw datasets, finance workbooks, videos, or PBIX/Excel files are included in this public portfolio. Those files can contain embedded data or third-party material; the previews are provided to show the work without publishing the underlying records.
+- Original Power BI, Excel, and dataset files are included for selected projects; see each project README for direct links.
+- Dashboard previews and project notes for all listed projects.
+- SQL Server examples for hospital operations, healthcare utilization, and airline reviews. They use staging schemas and contain no source records.
+- Patient-level health data, reviewer names and free-text reviews, company finance source files, and tutorial videos are not published.
+- Before republishing, confirm you have permission to share source files and that no personal or confidential data is embedded in a dashboard or workbook.
 
 ## Tools
 

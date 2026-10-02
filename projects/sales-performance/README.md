@@ -16,4 +16,11 @@ Microsoft Excel · Power Query · Data modelling
 
 ## Portfolio notes
 
-The preview features interactive selections and headline sales measures. The original workbook and dataset are not included.
+The preview features interactive selections and headline sales measures.
+
+## Project files
+
+- [Interactive Excel sales dashboard](files/WT%20Buscuits%20Sales%20Analysis.xlsm)
+- [Practice dataset](data/WT%20Practice%20Dataset.xlsx)
+
+The workbook is macro-enabled. Review macros according to your organization's security practices before enabling them in Excel.

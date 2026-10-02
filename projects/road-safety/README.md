@@ -16,4 +16,9 @@ Microsoft Excel · Interactive filters · Data modelling
 
 ## Portfolio notes
 
-The preview shows a severity overview, monthly comparison, and breakdowns by vehicle and road context. The workbook and source data are not included in this public repository.
+The preview shows a severity overview, monthly comparison, and breakdowns by vehicle and road context.
+
+## Project files
+
+- [Interactive Excel dashboard](files/Road%20Accident%20Dashboard.xlsx)
+- [Road accident source workbook](data/Road%20Accident%20Data.xlsx)
