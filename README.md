@@ -11,6 +11,8 @@ Power BI · Excel · SQL · Power Query · Data Modelling
 
 [Explore the projects](#selected-projects) · [View my GitHub profile](https://github.com/chrisWessel)
 
+**[Website source repository](https://github.com/chrisWessel/BI-Portfolio-Website)** · Live portfolio site will be linked here after Vercel deployment.
+
 </div>
 
 ---
