@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/wessel-tangai.jpg" alt="Portrait of Wessel Tangai" width="150">
+
 # WESSEL TANGAI
 ### BUSINESS INTELLIGENCE PORTFOLIO
 
