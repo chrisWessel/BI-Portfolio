@@ -4,6 +4,10 @@ An Excel dashboard that brings product and customer performance together with co
 
 ![Excel sales performance dashboard](../../assets/previews/excel-sales.png)
 
+## Report pages
+
+![Excel sales performance dashboard detail view](../../assets/project-details/sales-data/Screenshot%202026-10-02%20234609.png)
+
 ## Questions explored
 
 - How do sales revenue, cost of goods sold, profit, and margin compare?

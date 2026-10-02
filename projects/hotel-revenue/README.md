@@ -4,6 +4,10 @@ An interactive hotel performance dashboard focused on booking activity and reven
 
 ![Hotel revenue dashboard](../../assets/previews/hotel-revenue.png)
 
+## Report pages
+
+![Hotel revenue report tables and detail view](../../assets/project-details/hotel-analysis/Screenshot%202026-10-02%20233216.png)
+
 ## Questions explored
 
 - How do visits, revenue, costs, and profit compare with the prior year?

@@ -4,6 +4,14 @@ An interactive finance dashboard designed to make budget performance and period-
 
 ![Financial performance dashboard](../../assets/previews/financial-performance.png)
 
+## Report pages
+
+![Financial dashboard for 2024](../../assets/project-details/financial-performance/Screenshot%202026-10-02%20232732.png)
+
+![Financial performance versus the prior period](../../assets/project-details/financial-performance/Screenshot%202026-10-02%20232759.png)
+
+![Financial performance versus the prior year](../../assets/project-details/financial-performance/Screenshot%202026-10-02%20232818.png)
+
 ## Questions explored
 
 - How are revenue, gross profit, EBITDA, and expenses tracking against the selected period?

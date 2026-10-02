@@ -4,6 +4,10 @@ An aggregate view of admissions, billing, length of stay, test results, and cond
 
 ![Healthcare analytics dashboard](../../assets/previews/healthcare-analytics.png)
 
+## Report pages
+
+![Healthcare patient analytics report page](../../assets/project-details/healthcare-dash/Screenshot%202026-10-02%20232207.png)
+
 ## Questions explored
 
 - How do admissions, billing, and length of stay change over time?
@@ -26,4 +30,4 @@ Power BI · SQL Server (T-SQL) · Excel · Data modelling
 
 ## Important context
 
-This is a dashboarding and data-analysis example, not a clinical decision-support or diagnostic tool. The preview is aggregate; no source records are published.
+This is a dashboarding and data-analysis example, not a clinical decision-support or diagnostic tool. The portfolio owner confirmed that the report screenshots use synthetic or cleared demonstration data. Source records are not included in this archive.

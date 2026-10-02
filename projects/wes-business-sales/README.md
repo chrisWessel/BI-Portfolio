@@ -4,6 +4,12 @@ An interactive Excel dashboard for tracking revenue against monthly targets and 
 
 ![Wes Business sales dashboard — timeframe view](../../assets/previews/wes-business-sales.png)
 
+## Report pages
+
+![Wes Business sales dashboard — profit view](../../assets/project-details/wes-business/Screenshot%202026-10-02%20234111.png)
+
+![Wes Business sales dashboard — store view](../../assets/project-details/wes-business/Screenshot%202026-10-02%20234201.png)
+
 ## Questions explored
 
 - How does sales revenue compare with monthly store targets?

@@ -4,6 +4,12 @@ A multi-page view of hospital visits, costs, service mix, and patient experience
 
 ![Hospital operations dashboard](../../assets/previews/hospital-operations.png)
 
+## Report pages
+
+![Hospital patient analytics report page](../../assets/project-details/hospital-operations/Screenshot%202026-10-02%20230512.png)
+
+![Hospital patient summary report page](../../assets/project-details/hospital-operations/Screenshot%202026-10-02%20230607.png)
+
 ## Questions explored
 
 - How do visit volume and billing move over time?
@@ -26,4 +32,4 @@ Power BI · SQL Server (T-SQL) · Excel · Data modelling
 
 ## Privacy
 
-Only an aggregate dashboard preview is published. The source CSVs and interactive report are excluded because source data can contain identifiable or sensitive information.
+The portfolio owner confirmed that the report screenshots use synthetic or cleared demonstration data. The source CSVs and interactive report remain excluded because they may contain identifiable or sensitive information. This project is not for clinical decision-making.
