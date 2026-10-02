@@ -22,4 +22,9 @@ Power BI · Excel · Data modelling
 
 ## Privacy
 
-The public screenshots show aggregate report pages. The report file and source workbook are not included in this archive because they may contain health-related records. This project is for descriptive analysis only and is not a diagnostic or clinical decision-support tool.
+The portfolio owner confirms that the included source dataset is synthetic or cleared for public portfolio use. The public screenshots show aggregate report pages. This project is for descriptive analysis only and is not a diagnostic or clinical decision-support tool.
+
+## Project files
+
+- [Power BI report](Stroke%20Detection.pbix)
+- [Source data workbook](Copy%20of%20Healthcare%20Stroke%20Detection%20Data.xlsx)

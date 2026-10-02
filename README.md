@@ -92,7 +92,7 @@ This portfolio brings together projects across finance, healthcare, travel, hosp
 - Dashboard previews and project notes for all listed projects.
 - Project-level recommendations translate dashboard patterns into practical next steps; they are hypotheses to validate with stakeholders, not guaranteed outcomes.
 - SQL Server examples for hospital operations, healthcare utilization, and airline reviews. They use staging schemas and contain no source records.
-- Patient-level health data, reviewer identities and free-text reviews, Fastjet company-finance source files, and tutorial videos are not published.
+- Patient-level health data that is not cleared for release, reviewer identities and free-text airline reviews, Fastjet company-finance source files, and tutorial videos are not published.
 - Before republishing, confirm you have permission to share source files and that no personal or confidential data is embedded in a dashboard or workbook.
 
 ## Tools
