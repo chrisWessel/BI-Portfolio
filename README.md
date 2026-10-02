@@ -11,7 +11,7 @@ Power BI · Excel · SQL · Power Query · Data Modelling
 
 [Explore the projects](#selected-projects) · [View my GitHub profile](https://github.com/chrisWessel)
 
-**[Live portfolio website](https://bi-portfolio-website.vercel.app)** · **[Website source repository](https://github.com/chrisWessel/BI-Portfolio-Website)**
+**[Live portfolio website](https://bi-portfolio-website.vercel.app)** · **[Website source code](https://github.com/chrisWessel/BI-Portfolio-Website)** · **[BI project archive](https://github.com/chrisWessel/BI-Portfolio)**
 
 </div>
 
@@ -76,6 +76,7 @@ This portfolio brings together projects across finance, healthcare, travel, hosp
 | --- | --- | --- |
 | [Airline reviews](projects/airline-customer-experience/README.md) | Ratings, recommendation, route, travel class, and customer segment | Power BI · SQL |
 | [Stroke data exploration](projects/stroke-data-exploration/README.md) | An exploratory health-data dashboard; not a diagnostic tool | Power BI |
+| [Wes Business sales](projects/wes-business-sales/README.md) | Revenue targets, store performance, product and customer profitability | Excel · Power Query |
 
 ## How I work
 
@@ -89,6 +90,7 @@ This portfolio brings together projects across finance, healthcare, travel, hosp
 
 - Original Power BI, Excel, and dataset files are included for selected projects; see each project README for direct links.
 - Dashboard previews and project notes for all listed projects.
+- Project-level recommendations translate dashboard patterns into practical next steps; they are hypotheses to validate with stakeholders, not guaranteed outcomes.
 - SQL Server examples for hospital operations, healthcare utilization, and airline reviews. They use staging schemas and contain no source records.
 - Patient-level health data, reviewer identities and free-text reviews, Fastjet company-finance source files, and tutorial videos are not published.
 - Before republishing, confirm you have permission to share source files and that no personal or confidential data is embedded in a dashboard or workbook.

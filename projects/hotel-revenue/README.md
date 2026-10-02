@@ -18,6 +18,12 @@ Power BI · Excel · Power Query · Data modelling
 
 The preview highlights year, quarter, month, weekday, customer, and hotel-type filters. It also compares hotel types, market segments, check-outs, cancellations, and no-shows.
 
+## Recommendations
+
+- Compare realized bookings, revenue, and lost revenue across season, hotel type, and market segment before adjusting availability or pricing.
+- Review revenue and cost together to distinguish profitable demand from volume that adds little to the bottom line.
+- Test targeted seasonal or segment offers and evaluate them against profit and booking outcomes before broad rollout.
+
 ## Project files
 
 - [Power BI report](files/Hotel%20Analysis.pbix)

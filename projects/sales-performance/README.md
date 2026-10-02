@@ -18,6 +18,12 @@ Microsoft Excel · Power Query · Data modelling
 
 The preview features interactive selections and headline sales measures.
 
+## Recommendations
+
+- Prioritize products and customer segments that contribute sustained profit, not just high sales revenue.
+- Investigate low-margin products and locations to understand cost or pricing drivers before using broad discounts.
+- Use salesperson and customer breakdowns to identify support or growth opportunities, comparing like-for-like sales periods.
+
 ## Project files
 
 - [Interactive Excel sales dashboard](files/WT%20Buscuits%20Sales%20Analysis.xlsm)

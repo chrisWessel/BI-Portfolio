@@ -18,6 +18,12 @@ Power BI · Excel · Power Query · Data modelling
 
 The preview shows an overview page with period selectors, KPI cards, and department and expense-group variance analysis.
 
+## Recommendations
+
+- Investigate recurring adverse budget variances by department and expense group; separate timing, volume, and cost-rate drivers before changing budgets.
+- Use period comparisons to identify sustained revenue, gross-profit, or EBITDA movement, then validate the operational drivers with budget owners.
+- Track actuals against budget and forecast each reporting period so emerging variances can be addressed early.
+
 ## Project files
 
 - [Power BI report](files/Financial%20dashboard.pbix)
