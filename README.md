@@ -88,7 +88,7 @@ This portfolio brings together projects across finance, healthcare, travel, hosp
 - Original Power BI, Excel, and dataset files are included for selected projects; see each project README for direct links.
 - Dashboard previews and project notes for all listed projects.
 - SQL Server examples for hospital operations, healthcare utilization, and airline reviews. They use staging schemas and contain no source records.
-- Patient-level health data, reviewer names and free-text reviews, company finance source files, and tutorial videos are not published.
+- Patient-level health data, reviewer identities and free-text reviews, Fastjet company-finance source files, and tutorial videos are not published.
 - Before republishing, confirm you have permission to share source files and that no personal or confidential data is embedded in a dashboard or workbook.
 
 ## Tools

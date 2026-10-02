@@ -16,4 +16,11 @@ Power BI · Excel · Power Query · Data modelling
 
 ## Portfolio notes
 
-The preview shows an overview page with period selectors, KPI cards, and department and expense-group variance analysis. Source workbooks and the interactive report file are not included in this public repository.
+The preview shows an overview page with period selectors, KPI cards, and department and expense-group variance analysis.
+
+## Project files
+
+- [Power BI report](files/Financial%20dashboard.pbix)
+- [Dashboard export (PDF)](files/Financial%20dashboard.pdf)
+- [Excel dashboard workbook](files/The%20Ultimate%20Dashboard.xlsx)
+- [Excel data model workbook](data/The%20Ultimate%20Dashboard_Worksheet_DataModel.xlsx)
